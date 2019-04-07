@@ -5,3 +5,29 @@ The fisrt theme I did like this was called Materia-Manjaro because it was based 
 Newaita icons can be found here:
 https://github.com/cbrnix/Newaita
 
+[Screenshot_20190407_164434](https://user-images.githubusercontent.com/41884680/55690719-b29be280-595a-11e9-9239-22ca14463325.png)
+
+![Screenshot_20190407_162517](https://user-images.githubusercontent.com/41884680/55690691-72d4fb00-595a-11e9-8576-fa067f21baad.png)
+
+![Screenshot_20190407_162659](https://user-images.githubusercontent.com/41884680/55690692-78324580-595a-11e9-84a4-e4fe47f66326.png)
+
+![Screenshot_20190407_162830](https://user-images.githubusercontent.com/41884680/55690696-7bc5cc80-595a-11e9-9675-6b5a01acc3b6.png)
+
+![Screenshot_20190407_163211](https://user-images.githubusercontent.com/41884680/55690700-86806180-595a-11e9-8c5e-ec37921fe477.png)
+
+![Screenshot_20190407_163844](https://user-images.githubusercontent.com/41884680/55690704-8bddac00-595a-11e9-8690-6513a2a1c2b6.png)
+
+![Screenshot_20190407_163919](https://user-images.githubusercontent.com/41884680/55690706-913af680-595a-11e9-90d0-40cd30a9afb1.png)
+
+![Screenshot_20190407_163950](https://user-images.githubusercontent.com/41884680/55690708-95ffaa80-595a-11e9-82ec-5d2ed290a9b0.png)
+
+![Screenshot_20190407_164125](https://user-images.githubusercontent.com/41884680/55690711-9a2bc800-595a-11e9-9668-64baaface928.png)
+
+![Screenshot_20190407_164237](https://user-images.githubusercontent.com/41884680/55690713-9ef07c00-595a-11e9-8b56-5bdcfc605d3f.png)
+
+![Screenshot_20190407_164520](https://user-images.githubusercontent.com/41884680/55690722-b9c2f080-595a-11e9-8dd2-d17199f95350.png)
+
+![Screenshot_20190407_165226](https://user-images.githubusercontent.com/41884680/55690734-cfd0b100-595a-11e9-9e71-d228277b3217.png)
+
+![Screenshot_20190407_164700](https://user-images.githubusercontent.com/41884680/55690730-c5aeb280-595a-11e9-999f-6842e7ac3ca5.png)
+
