@@ -66,9 +66,9 @@ or just open terminal in Downloads folder and type: git clone https://github.com
 
  --- Make folders Green
 
- --- Either go to the Newaita-dark icons folder in ~/.local/share/icons/Newaita-dark or do it the easy way and open a terminal and type cd ~/.local/share/icons/Newaita-dark and type ./FV.sh and a menu will open in the terminal and ask you waht color you want.
+ --- Either go to the Newaita-dark icons folder in ~/.local/share/icons/Newaita-dark or do it the easy way and open a terminal and type cd ~/.local/share/icons/Newaita-dark and type ./FV.sh and a menu will open in the terminal and ask you what color you want.
  You want the Manjaro color
- That is for icons. It is simple. Open a terminal in the folder where you installed the icons and type ./FV.sh
+ That is it for icons. It is simple. Open a terminal in the folder where you installed the icons and type ./FV.sh
  select Manjaro
  
  --- Now we apply the themes. When you learn what is going on this is how simple it it is.
@@ -82,4 +82,4 @@ or just open terminal in Downloads folder and type: git clone https://github.com
 --- In the same menu down at the bottom select Newaita-dark for your icon theme and hit apply
 --- Go to icons in main settings menu and select your Newaita dark icons which if you followed directions will be green and hit apply.
 
-So in reality applying my themes is simple but the only reason i went thru this is so you can have them applied correctly. The long directions for new users. It is as simple as learning how to set your themes and set them and this teaches you just that. For advanced users this is way to long but I would like you have the real beauty of the themes and to have that you must not use different settings or icons . They simply will not match. Follow these steps and all will work like it is supposed to I promise but like I said leave one thing off and the entire theme will be off and you most likely will not be happy.
+So in reality applying my themes is simple but the only reason I went thru this is so you can have them applied correctly. The long directions for new users. It is as simple as learning how to set your themes and set them and this teaches you just that. For advanced users this is way to long but I would like you have the real beauty of the themes and to have that you must not use different settings or icons . They simply will not match. Follow these steps and all will work like it is supposed to I promise but like I said leave one thing off and the entire theme will be off and you most likely will not be happy.
